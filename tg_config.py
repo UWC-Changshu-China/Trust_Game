@@ -9,7 +9,7 @@ score_configs = {
 }
 
 players_configs = {
-    'Bot': 4,
+    'Bot': 3,
     'Follower': 3,
     'Gambler': 3,
     'Pink': 3,
@@ -30,7 +30,7 @@ game_configs = {
     'total_player_num': total_num,
     'each_game_num': 10,
     'update_player_num': 5,
-    'mistake_prob': 0,
-    'total_rounds': 20,
+    'mistake_prob': 5,
+    'total_rounds': 15,
 
 }
